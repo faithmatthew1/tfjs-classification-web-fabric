@@ -8585,8 +8585,8 @@ h1 {
 
 /* STYLE NAV BAR */
 a:link, a:visited {
-  background-color: #C46D5E;
-  color: #7BAE7F;
+  background-color: #4C230A;
+  color: #FFF4EB;
   padding: 14px 25px;
   display: inline-block;
   text-align: center; 
@@ -8595,8 +8595,8 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color: #7BAE7F;
-  color: #C46D5E;
+  background-color: #FFF4EB;
+  color: #4C230A;
   font-family: 'Courier New', Courier, monospace;
 }
   
