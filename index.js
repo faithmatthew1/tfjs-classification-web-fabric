@@ -15,15 +15,23 @@
  * =============================================================================
  */
 const CLASSES_NAMES = {
-  0: 'apple',
-  1: 'avocado',
-  2: 'banana',
-  3: 'carrot',
-  4: 'lettuce',
-  5: 'onion',
-  6: 'pepper',
-  7: 'potato',
-  8: 'tomato',
+  0: 'blended',
+  1: 'chenille',
+  2: 'corduroy',
+  3: 'cotton',
+  4: 'crepe',
+  5: 'denim',
+  6: 'fleece',
+  7: 'leather',
+  8: 'linen',
+  9: 'nylon',
+  10: 'polyester',
+  11: 'satin',
+  12: 'silk',
+  13: 'terrycloth', 
+  14: 'unclassified',
+  15: 'viscose', 
+  16: 'wool',
  }
 
 const MOBILENET_MODEL_PATH =
