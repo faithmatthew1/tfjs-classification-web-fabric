@@ -24,7 +24,7 @@ const CLASSES_NAMES = {
   6: 'fleece',
   7: 'leather',
   8: 'linen',
-  9: 'nylon',
+  9: 'cotton pt 2',
   10: 'polyester',
   11: 'satin',
   12: 'silk',
