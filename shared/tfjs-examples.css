@@ -8577,3 +8577,12 @@ code {
   border: 1px solid #dedede;
   border-radius: 4px;
   font-size: 110%; }
+
+h1 {
+ color: #A76D60;
+  font-size: 58px;
+  font-family: 'Courier New', Courier, monospace;
+  	-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #F7F9F9;
+    text-align: center;
+}
