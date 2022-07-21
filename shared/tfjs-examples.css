@@ -8619,11 +8619,11 @@ p.abt {
  color: #601700;
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
-  font-size: 30px;
+  font-size: 18px;
   padding-left: 15%;
   padding-right: 15%;
 }
 
-.abthead {
+h1.abthead {
  text-align: center;
 }
