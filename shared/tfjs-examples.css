@@ -8579,7 +8579,7 @@ code {
   font-size: 110%; }
 
 h1 {
- color: #A76D60;
+ color: #73956F;
 }
 
 
@@ -8612,4 +8612,14 @@ li {
 /*OVERALL PAGE*/
 body {
  background-color: #FFF4EB; 
+}
+
+/*ABT US*/
+p.abt {
+ color: #601700;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-size: 30px;
+  padding-left: 15%;
+  padding-right: 15%;
 }
