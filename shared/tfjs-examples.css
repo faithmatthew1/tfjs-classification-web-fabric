@@ -8581,3 +8581,30 @@ code {
 h1 {
  color: #A76D60;
 }
+
+
+/* STYLE NAV BAR */
+a:link, a:visited {
+  background-color: #FFF7F0;
+  color: #601700;
+  padding: 14px 25px;
+  display: inline-block;
+  text-align: center; 
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  background-color: #601700;
+  color: #FFF7F0;
+  font-family: 'Courier New', Courier, monospace;
+}
+  
+#nav {
+  text-align: center;
+  font-size: 25px;
+}
+
+li {
+  display: inline;
+}
