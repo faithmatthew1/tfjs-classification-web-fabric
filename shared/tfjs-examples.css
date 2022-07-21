@@ -8608,3 +8608,8 @@ a:hover, a:active {
 li {
   display: inline;
 }
+
+/*OVERALL PAGE*/
+body {
+ background-color: #FFE9D6; 
+}
