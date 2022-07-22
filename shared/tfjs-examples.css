@@ -8639,12 +8639,28 @@ div#fabricsec {
 }
 
 h2 {
- font-family: Arial, sans-serif;
+ font-family: Roboto, sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-size: 3rem;
+  line-height: 3.125rem;
+  font-weight: 400;
+  letter-spacing: normal;
+  text-decoration: inherit;
+  text-transform: inherit; 
  color: #73956F;
 }
 
 h3 {
-font-family: Arial, sans-serif;
+ font-family: Roboto, sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-size: 3rem;
+  line-height: 3.125rem;
+  font-weight: 400;
+  letter-spacing: normal;
+  text-decoration: inherit;
+  text-transform: inherit; 
  color: #C46D5E;
 }
 
