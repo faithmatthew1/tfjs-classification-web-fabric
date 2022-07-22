@@ -8651,15 +8651,20 @@ div#fabricsec {
  color: #73956F;
 }
 */
-h3 {
- font-family: Roboto, sans-serif;
- color: #C46D5E;
-}
+
+
 
 h1.minihead {
  font-size: 30px;
+ color: #C46D5E;
 }
 
+h1.fabrichead {
+ font-size: 40px;
+}
 
-
+p.fabricpara {
+ font-size: 20px;
+ color: #4C230A
+}
 
