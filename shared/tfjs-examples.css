@@ -8638,7 +8638,7 @@ div#fabricsec {
  padding-right: 15%;
 }
 
-h2 {
+/*h2 {
  font-family: Roboto, sans-serif;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -8650,10 +8650,14 @@ h2 {
   text-transform: inherit; 
  color: #73956F;
 }
-
+*/
 h3 {
  font-family: Roboto, sans-serif;
  color: #C46D5E;
+}
+
+h1.minihead {
+ font-size: 30px;
 }
 
 
