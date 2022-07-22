@@ -8617,16 +8617,18 @@ body {
 /*ABT US*/
 p.abt {
  color: #601700;
-  text-align: center;
+  /*text-align: center;*/
   font-size: 18px;
   padding-left: 15%;
   padding-right: 15%;
 }
 
 h1.abthead {
- text-align: center;
+ /*text-align: center;*/
+  padding-left: 15%;
 }
 
-#abthead {
- text-align: center;
+#abthead 
+ /*text-align: center;*/
+  padding-left: 15%;
 }
