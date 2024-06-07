@@ -2,16 +2,11 @@
 
 @AI4ALL CMU 2022
 
-[See this example live!](https://shadowninjazx.github.io/tfjs-classification-web/)
+[See this repository live!](https://faithmatthew1.github.io/tfjs-classification-web-fabric/)
 
-This is a template website to host a TensorFlow JS (TFJS) version of image classification models online. 
+This is a website to hosting a TensorFlow JS (TFJS) version of out fabric image classification model online. 
 
-To host your own classification + X website:
-- Copy this repository to your own repository
-- Place the TFJS model JSOn and shards to the `model_tfjs/` folder
-- Overwrite the `CLASSES_NAMES` list in `index.js`
-- Modify `index.html` as desired
-- Host on GitHub Pages
+
 
 Learn more about exporting models from TensorFlow to TFJS [here.](https://www.tensorflow.org/js/tutorials/conversion/import_keras)
 
