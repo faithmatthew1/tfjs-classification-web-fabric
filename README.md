@@ -4,7 +4,7 @@
 
 [See this repository live!](https://faithmatthew1.github.io/tfjs-classification-web-fabric/)
 
-This is a website to hosting a TensorFlow JS (TFJS) version of out fabric image classification model online. 
+This is a website to hosting a TensorFlow JS (TFJS) version of our fabric image classification model online. Submit a photo of your clothes to know what its composed of, and explore the environmental ramifications of what you wear!
 
 
 
