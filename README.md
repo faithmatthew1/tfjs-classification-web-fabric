@@ -1,4 +1,4 @@
-# AI4ALL Project Classification + X
+# AI4ALL Project Classification: PlanetTex
 
 @AI4ALL CMU 2022
 
